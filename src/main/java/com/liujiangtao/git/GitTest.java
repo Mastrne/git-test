@@ -13,6 +13,7 @@ public class GitTest {
         System.out.println("hello git32!");
         System.out.println("hello git4!");
         System.out.println("hello git4!");
-        System.out.println("hello git push git!");
+         System.out.println("hello git4! pull send");
+        
     }
 }
